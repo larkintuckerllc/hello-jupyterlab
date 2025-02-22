@@ -31,3 +31,18 @@ The first time you use this repository, you will need to first run the following
 ```
 $ pipenv pip install pipenv==2024.4.1
 ```
+
+Then you run the following command to install all the package dependencies.
+
+```
+$ pipenv install
+```
+
+## Jupyter Lab
+
+Each time you work with this repository, you will need to run the following command in this folder to start JupyterLab.
+
+```
+$ jupyter lab
+
+```
