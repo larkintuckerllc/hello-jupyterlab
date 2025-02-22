@@ -23,3 +23,11 @@ Each time you work with this repository, you will need to run the following comm
 ```
 $ source .environment/bin/activate
 ```
+
+## pipenv
+
+The first time you use this repository, you will need to first run the following command in this folder to install pipenv.
+
+```
+$ pipenv pip install pipenv==2024.4.1
+```
